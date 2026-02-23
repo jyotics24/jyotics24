@@ -17,9 +17,10 @@ AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | Linux
 ---
 
 ## 📌 Featured Projects
-🔹 Docker + Terraform CI/CD Pipeline  
-🔹 Kubernetes Core Workloads Lab  
-🔹 Ansible Automation Project  
+
+🔹 [Docker + Terraform CI/CD Pipeline](https://github.com/jyotics24/docker-terraform-cicd)  
+🔹 [Kubernetes Core Workloads Lab](https://github.com/jyotics24/kubernetes-core-workloads-lab)  
+🔹 [Ansible Nautilus Automation](https://github.com/jyotics24/ansible-nautilus-automation)
 
 ---
 
