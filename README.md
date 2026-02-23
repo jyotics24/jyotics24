@@ -1,6 +1,6 @@
 # Hi, I'm Jyotiprakash Khuntia 👋
 
-🚀 DevOps & Cloud Engineer  
+DevOps & Cloud Engineer  
 AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | Linux  
 
 ---
