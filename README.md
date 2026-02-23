@@ -30,6 +30,8 @@ AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | Linux
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Jyotiprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotics24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotics24&show_icons=true&theme=tokyonight&cache_seconds=1800)
