@@ -29,9 +29,3 @@ AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | Linux
 🔗 GitHub: https://github.com/jyotics24
 
 ---
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotics24&show_icons=true&theme=tokyonight&cache_seconds=1800)
