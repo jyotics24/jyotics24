@@ -27,3 +27,9 @@ AWS | Terraform | Kubernetes | Docker | Jenkins | Ansible | Linux
 ## 📫 Connect With Me
 🔗 LinkedIn: https://linkedin.com/in/jyotiprakash-khuntia  
 🔗 GitHub: https://github.com/jyotics24
+
+---
+
+## 📊 GitHub Stats
+
+![Jyotiprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotics24&show_icons=true&theme=tokyonight)
